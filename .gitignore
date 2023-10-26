@@ -1,0 +1,7 @@
+app/__pycache__
+app/chest_xray
+app/output/*
+efficientNet_xray4.h5
+
+
+app/test.py

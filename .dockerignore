@@ -1,0 +1,5 @@
+app/__pycache__
+app/chest_xray
+app/output/*
+
+app/test.py
