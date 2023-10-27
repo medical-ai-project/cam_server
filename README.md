@@ -4,7 +4,7 @@ outputディレクトリに、camのヒートマップ画像とその圧縮フ�
 胸部x線画像をhttpリクエストで送信すると、圧縮ファイル(cam_images.zip)がhttpでレスポンスされる。
 ### 準備
 google driveで共有済みのモデル("/グループ1/ai_notebook等/models/efficientNet_xray4.h5")  
-をルートディレクトリの中(medic/efficientNet_xray4.h5)に配置してください。  
+をappディレクトリの中(medic/app/efficientNet_xray4.h5)に配置してください。  
 
 
 
